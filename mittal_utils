@@ -5,7 +5,7 @@ import math
 import statistics
 
 # Call main()
-def main(): 
+def main():
     
     # Company inforation
     company_name: str = "Your Data Inc."
